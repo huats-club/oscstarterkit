@@ -6,7 +6,7 @@ This repository contains resources to get you started on using **Python Open Sou
 
 In this starterkit, we will explore the following scenarios to expand our understanding on integrating **OSC**:
 1. **Tutorial 1**: Pi to Pi OSC Communication - Click [here](./tutorial1/tutorial1.md)
-2. **Tutorial 2**: Push Button (GPIO) to Pi to Pi OSC Communication
+2. **Tutorial 2**: Push Button (GPIO) to Pi to Pi OSC Communication - Click [here](./tutorial2/tutorial2.md)
 
 ## Dependencies
 The code base in this repository has been test using **Python 3.9 or higher**.
