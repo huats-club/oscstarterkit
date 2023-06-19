@@ -4,7 +4,7 @@ In this tutorial, we are going to use a push button as a triggering device to tr
 ## System Flowchat
 ```mermaid
 graph LR
-A[Push Button<br>Raspberry Pi Pin 17] --> B[RPi B]
+A[Push Button<br>Raspberry Pi Pin 27] --> B[RPi B]
 B --> C[RPi A]
 ```
 
