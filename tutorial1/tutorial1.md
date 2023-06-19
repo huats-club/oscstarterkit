@@ -8,7 +8,7 @@ Sample code is located under the `tutorial1` folder.
 ```mermaid
 graph LR
 
-A[RPi A<br><font size=2>osc_server.py] --> B[RPi B<br><font size=2>osc_client.py]
+A[RPi A<br>osc_server.py] --> B[RPi B<br>osc_client.py]
 ```
 
 ## Instruction
