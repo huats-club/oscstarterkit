@@ -54,14 +54,32 @@ If you are using **Ethernet Connection**, identify the *IP address* under the `e
 
 If you are using **WiFi Connection**, identify the *IP address* under the `wlan0` section. 
 
-2. Edit the desination IP address `PI_A_ADDR` (*line 16*) under `osc_client.py` file.
+2. Edit the server IP address `receiver_ip` (*line 4*) in `osc_server.py file.
 
-Open and edit `osc_client.py` (please make sure you are in the correct directory)
+Open and edit `osc_server.py` (please make sure you are in the correct directory)
+```
+nano osc_server.py
+```
+
+Enter corresponding *IP Address* retrieved in **Step 1** into `line 4`. Below is an example
+```
+receiver_ip = "192.168.1.100"
+```
+
+Save and exit **nano editor**
+```
+Crtl + O
+Crtl + X
+```
+
+3. Edit the desination IP address `PI_A_ADDR` (*line 16*) in `osc_client.py` file.
+
+Open and edit `osc_client.py` 
 ```
 nano osc_client.py
 ```
 
-Enter corresponding *IP Address* retrieve in **Step 1** into `line 16`. Below is an example
+Enter corresponding *IP Address* retrieved in **Step 1** into `line 16`. Below is an example
 ```
 PI_A_ADDR = "192.168.1.100"
 ```
@@ -72,12 +90,12 @@ Crtl + O
 Crtl + X
 ```
 
-3. Execute `osc_server.py` (please make sure you are in the correct directory)
+4. Execute `osc_server.py` 
 ```
 python3 osc_server.py
 ```
 
-4. Excute `osc_client.py` (please make sure you are in the correct directory)
+5. Excute `osc_client.py` 
 ```
 python3 osc_client.py
 ```
