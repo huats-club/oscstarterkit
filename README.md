@@ -5,7 +5,7 @@ This repository contains resources to get you started on using **Python Open Sou
 3. Audio Visual Equipment
 
 In this starterkit, we will explore the following scenarios to expand our understanding on integrating **OSC**:
-1. **Tutorial 1**: Pi to Pi OSC Communication - Click [here](##Tutorial-1)
+1. **Tutorial 1**: Pi to Pi OSC Communication - Click [here](##-Tutorial-1)
 2. **Tutorial 2**: Push Button (GPIO) to Pi to Pi OSC Communication
 
 ## Dependencies
