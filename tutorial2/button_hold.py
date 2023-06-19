@@ -14,7 +14,7 @@ deinit_msg = "byebye from b"
 GPIO.setmode(GPIO.BCM)
 
 # Set up the button pin
-button_pin = 17
+button_pin = 27
 GPIO.setup(button_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
 press_flag = 0

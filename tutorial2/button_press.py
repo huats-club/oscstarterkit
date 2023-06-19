@@ -33,4 +33,4 @@ while True:
 
             ## block end
             push_flag = 0
-        time.sleep(0.5)
+        time.sleep(1)

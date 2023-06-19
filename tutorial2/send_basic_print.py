@@ -13,10 +13,11 @@ def send_message(receiver_ip, receiver_port, address, message):
 		print("Message not sent")
 
 # FOR INFO: IP address and port of the receiving Raspberry Pi
-PI_A_ADDR = "192.168.1.100"
-PORT = 2000
+if __name__ == "__main__":
+	PI_A_ADDR = "192.168.1.100"
+	PORT = 2000
 
-addr = "/print"
-msg = "salutations from pi_B"
+	addr = "/print"
+	msg = "salutations from pi_B"
 
-send_message(PI_A_ADDR, PORT, addr, msg)
+	send_message(PI_A_ADDR, PORT, addr, msg)
