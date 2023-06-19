@@ -22,12 +22,62 @@ Python-osc provides a convenient way to work with OSC in Python by offering func
 ### To Install Python-OSC
 **On Raspberry Pi**
 ```
-pip3 install python-osc
+pip3 install python-osc==1.8.1
 ```
 
 **On Desktop/Laptop**
 ```
-pip install python-osc
+pip install python-osc==1.8.1
 ```
 
-## 
+## Tutorial 1 : Pi to Pi OSC Communication
+In this tutorial, we are going to send a simple **OSC** message from one raspberry pi to another. 
+
+Sample code is located under the `tutorial1` folder. 
+
+### System Flowchart
+
+```mermaid
+graph LR
+
+A[RPi A<br><font size=2>osc_server.py] --> B[RPi B<br><font size=2>osc_client.py]
+```
+
+### Instruction
+ 
+1.  Identify the IP address of the Raspberry Pi Server, in this particular case, **RPi A**. Type the following command on the terminal of **RPi A**.
+```
+ifconfig
+```
+
+If you are using **Ethernet Connection**, identify the *IP address* under the `eth0` section.
+
+If you are using **WiFi Connection**, identify the *IP address* under the `wlan0` section. 
+
+2. Edit the desination IP address `PI_A_ADDR` (*line 16*) under `osc_client.py` file.
+
+Open and edit `osc_client.py` (please make sure you are in the correct directory)
+```
+nano osc_client.py
+```
+
+Enter corresponding *IP Address* retrieve in **Step 1** into `line 16`. Below is an example
+```
+PI_A_ADDR = "192.168.1.100"
+```
+
+Save and exit **nano editor**
+```
+Crtl + O
+Crtl + X
+```
+
+3. Execute `osc_server.py` (please make sure you are in the correct directory)
+```
+python3 osc_server.py
+```
+
+4. Excute `osc_client.py` (please make sure you are in the correct directory)
+```
+python3 osc_client.py
+```
