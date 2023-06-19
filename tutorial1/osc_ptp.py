@@ -1,3 +1,4 @@
+# Huats 2023 oscstarterkit
 from pythonosc import osc_server, dispatcher, udp_client
 
 #server for this RPi (Pi_A)

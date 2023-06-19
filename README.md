@@ -29,3 +29,6 @@ pip3 install python-osc==1.8.1
 ```
 pip install python-osc==1.8.1
 ```
+
+
+Special Shoutout to Huats Member, Ms Hannah Lee for contributing her time in building this repository.

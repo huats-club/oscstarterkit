@@ -1,3 +1,4 @@
+# Huats 2023 oscstarterkit
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
