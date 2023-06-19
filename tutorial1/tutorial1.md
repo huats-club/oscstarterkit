@@ -118,7 +118,7 @@ nano osc_server.py
 ```
 Enter corresponding **RPi B IP Address** into `line 4`. Below is an example
 ```
-receiver_ip = "192.168.1.100"
+receiver_ip = "192.168.1.101"
 ```
 
 Save and exit **nano editor**
