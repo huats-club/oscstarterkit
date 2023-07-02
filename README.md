@@ -34,5 +34,7 @@ pip install python-osc==1.8.1
 ```
 
 
-Special Shoutout to Huats Member, Ms. Hannah Lee for contributing her time in building this repository.
-Huats would also like to credit Nanyang Polytechnic Media & Technology System Specialisation for contributing to the open source effort in building these resources for learners/practitioners in the field of Audio Visual, Arts and Technology. 
+## Credits 
+Special Shoutout to Huats Member, **Ms. Hannah Lee** from **National University of Singapore** for contributing her time in building this repository.
+
+Huats would also like to credit **Nanyang Polytechnic, Media & Technology System Specialisation** for contributing to the open source effort in building these resources for learners/practitioners in the field of Audio Visual, Arts and Technology. 
