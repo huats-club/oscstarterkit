@@ -9,6 +9,7 @@ In this starterkit, we will explore the following scenarios to expand our unders
 2. **Tutorial 2**: Push Button (GPIO) to Pi to Pi OSC Communication - Click [here](./tutorial2/tutorial2.md)
 3. **Tutorial 3**: Python UDP Message (Raspberry Pi) to Christie Widget Designer - Click [here](./tutorial3/tutorial3.md)
 4. **Tutorial 4**: Raspberry Pi to Yamaha CL/QL Console - Click [here](./tutorial4/tutorial4.md)
+5. **Tutorial 5**: Raspberry Pi to grandMA Lighting Console - CLick [here](./tutorial5/tutorial5.md)
 
 ## Dependencies
 The code base in this repository has been test using **Python 3.9 or higher**.
@@ -33,4 +34,5 @@ pip install python-osc==1.8.1
 ```
 
 
-Special Shoutout to Huats Member, Ms Hannah Lee for contributing her time in building this repository.
+Special Shoutout to Huats Member, Ms. Hannah Lee for contributing her time in building this repository.
+Huats would also like to credit Nanyang Polytechnic Media & Technology System Specialisation for contributing to the open source effort in building these resources for learners/practitioners in the field of Audio Visual, Arts and Technology. 
