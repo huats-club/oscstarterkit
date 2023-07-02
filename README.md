@@ -7,7 +7,7 @@ This repository contains resources to get you started on using **Python Open Sou
 In this starterkit, we will explore the following scenarios to expand our understanding on integrating **OSC**:
 1. **Tutorial 1**: Raspberry Pi to Raspberry Pi OSC Communication - Click [here](./tutorial1/tutorial1.md)
 2. **Tutorial 2**: Push Button (GPIO) to Pi to Pi OSC Communication - Click [here](./tutorial2/tutorial2.md)
-3. **Tutorial 3**: Python UDP Message 
+3. **Tutorial 3**: Python UDP Message (Raspberry Pi) to Christie Widget Designer - Click [here](./tutorial3/tutorial3.md)
 4. **Tutorial 4**: Raspberry Pi to Yamaha CL/QL Console - Click [here](./tutorial4/tutorial4.md)
 
 ## Dependencies
