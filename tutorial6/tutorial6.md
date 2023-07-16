@@ -30,7 +30,21 @@ Below are some links that may be useful for learning.
 3. For OSC controls in **Multiplay 3**, visit [link](https://da-share.com/forum/index.php?topic=249.0)
 4. **Multiplay 3** Help File [file](http://da-share.com/help/multiplay3/index.html)
 
-## Installation / Operation
+## Multiplay Configuration
+
+1. Enable **OSC Control** in **Multiplay 3**, navigate to the following
+```
+file -> Perferences  -> OSC Control
+```
+
+2. Clik on **Enable Control Incoming** (Orange Box) and define a **Port Number** (Green Box)
+
+![Alt text](diagram/oscsetting.png)
+
+*Multiplay 3 OSC Setting*
+
+
+## Python Installation / Operation
 
 1. Create a directory folder for the required python files. In this particular case, we are going to name the folder *multiplay*
 
