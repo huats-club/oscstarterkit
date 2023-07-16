@@ -10,6 +10,7 @@ In this starterkit, we will explore the following scenarios to expand our unders
 3. **Tutorial 3**: Python UDP Message (Raspberry Pi) to Christie Widget Designer - Click [here](./tutorial3/tutorial3.md)
 4. **Tutorial 4**: Raspberry Pi to Yamaha CL/QL Console - Click [here](./tutorial4/tutorial4.md)
 5. **Tutorial 5**: Raspberry Pi to grandMA Lighting Console - CLick [here](./tutorial5/tutorial5.md)
+6. **Tutorial 6**: Python to Multiplay (Windows) - Click [here](./tutorial6/tutorial6.md)
 
 ## Dependencies
 The code base in this repository has been test using **Python 3.9 or higher**.
