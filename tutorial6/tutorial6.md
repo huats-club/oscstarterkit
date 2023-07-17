@@ -2,7 +2,7 @@
 In this tutorial, we are attempting to control the **Multiplay** using **python osc** messaging protocol.
 
 The resources in this tutorial are tested with the following hardware
-1. Computer running **Multiplay 3 (tested on 3.0.198.0)**
+1. Computer running **Multiplay 3 (tested on 3.0.198.0 or 3.0.199.0-video)**
 2. **Python 3.9 or higher**
 
 ## System Flowchart
