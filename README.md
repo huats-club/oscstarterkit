@@ -11,6 +11,7 @@ In this starterkit, we will explore the following scenarios to expand our unders
 4. **Tutorial 4**: Raspberry Pi to Yamaha CL/QL Console - Click [here](./tutorial4/tutorial4.md)
 5. **Tutorial 5**: Raspberry Pi to grandMA Lighting Console - CLick [here](./tutorial5/tutorial5.md)
 6. **Tutorial 6**: Python to Multiplay (Windows) - Click [here](./tutorial6/tutorial6.md)
+7. **Tutorial 7**: Python-OSC control to L-Acoustic L-ISA - Click [here](./tutorial7/tutorial7.md)
 
 ## Dependencies
 The code base in this repository has been test using **Python 3.9 or higher**.
