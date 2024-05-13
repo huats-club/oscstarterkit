@@ -22,7 +22,7 @@ A[Raspberry Pi] --LAN--> B[Yamaha<br>QL1/QL5 Console<br>CL1/CL3/CL5 Console]
 mkdir yamaha
 ```
 
-2. Please copy the following files into the folder director `~/yamaha`
+2. Please copy the following files into the folder directory `~/yamaha`
 ```
 command.py
 recall.py
