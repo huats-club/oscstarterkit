@@ -63,7 +63,7 @@ python3 marker_1.py
 
 ## Identifying OSC Commands in Reaper
 
-In this tutorial we are using the *Action List* in **Reaper**. In Reaper, the *Action List* is a comprehensive catalogue of commands and functions that you can execute within the softwaer. It covers basic features such as playback controls to complex scripting operations. 
+In this tutorial, we are using the *Action List* in **Reaper**. In Reaper, the *Action List* is a comprehensive catalogue of commands and functions that you can execute within the softwaer. It covers basic features such as playback controls to complex scripting operations. 
 
 To view *Action List* navigate to `Actions -> Show action list...`
 
