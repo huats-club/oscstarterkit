@@ -94,7 +94,7 @@ python3 grandma.py
 
 ## Part B: Controlling grandMA3 on the Same PC (Windows + VS Code)
 
-*This section is based on the work contributed by Syakil Teriman (from Diploma in Infocomm Media & Engineering, Nanyang Polytechnic), 2025.*
+*This section is based on the work contributed by Syakil Toriman (from Diploma in Infocomm Media & Engineering, Nanyang Polytechnic), 2025.*
 
 In this example, **Visual Studio Code** on the same Windows PC as **grandMA3 onPC** sends OSC commands using the loopback address. This approach does not require a network switch or a Raspberry Pi, and extends control to individual fixture attributes such as **Pan** and **Tilt**.
 
